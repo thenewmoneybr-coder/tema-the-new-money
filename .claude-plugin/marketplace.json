@@ -1,0 +1,5 @@
+{
+  "name": "the-new-money",
+  "owner": { "name": "The New Money" },
+  "plugins": [{ "name": "the-new-money-roxo", "source": "./" }]
+}
